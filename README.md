@@ -1,5 +1,7 @@
 # startmc.sh
 
+> ARCHIVED / FROZEN - check out [flags.sh](https://flags.js) for a great alternative!
+
 A simple site to generate startup files for your Minecraft server.
 
 ## API
